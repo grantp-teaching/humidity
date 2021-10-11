@@ -1,8 +1,9 @@
-auto/
 *.aux
 *.fdb_latexmk
 *.fls
 *.log
+*.nav
 *.out
-*_lab.pdf
-*_notes.pdf
+*.snm
+*.toc
+auto/
